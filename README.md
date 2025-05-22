@@ -1,1 +1,1 @@
-Light AI hedge fund, an example to setup data connedtion and agents to do analysis
+Light AI hedge fund, an example to setup data connection and agents to do analysis
